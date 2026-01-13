@@ -1,2 +1,2 @@
-# Proyek-Magang-LAZISMU-Kota-Semarang_Analisis-Autokorelasi-Spasial-Indeks-Moran
+# Analisis Autokorelasi Spasial pada Jumlah Penghimpunan Dana di LAZISMU Kota Semarang Menggunakan Indeks Moran
 Proyek Magang Kelompok
